@@ -2,10 +2,10 @@
 /**
  * main - Entry point
  * Description: 'print comb of numbers'
- * Return: Always 0
+ * Return: Always 0 (Success)
  */
 int main(void)
-	{
+{
 	int a;
 
 	for (a = 0; a <= 10; a++)
@@ -19,4 +19,4 @@ int main(void)
 	}
 	putchar('\n');
 	return (0);
-	}
+}
